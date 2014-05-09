@@ -1,4 +1,4 @@
-## Reconstruct plot 3
+## Reconstruct plot 4
 ## Read data
 v <- read.delim("household_power_consumption.txt", sep = ";", 
                 header = TRUE, as.is = TRUE, na.strings = "?")
